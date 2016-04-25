@@ -1,0 +1,33 @@
+'xxx PRAEFATIO.
+
+“ chano. Nam cum in Usserii notis ad Mar-
+“ tyrium B. Polycarpi‚ manuscriptum Euse-
+“ bianae historiae codicem ex bibliotheca Savi-
+“ liaua laudari animadvertissem, eumque codi-
+“ cern optimae notre esse ex aliquot locis ab
+“ Usserio prolatis deprehendissem, postulavi
+“ ab eo per literas, ut varias ejus codicis lec·
+“ tiones (integrum enirn ab eo collatum esse
+“ existimabam) ad me transmitteret. llle
+“ vero codicem quidem ipsum in charta scrip
+“ tum bombycina, bibliothecae Oxoniensi a
+“ Savilio donatum fuisse mihi rescripsit. Car·
+“terum editionem Roberti Stephani statim
+“ad me misit, in cujus margine Savilius
+“ emendationes ex suo illo manuscripto codice
+“ depromptas adnotaverat. Quantum tamen
+“conjicere potui, non omnes scripti codicis
+“lectiones ad latus editionis illius apposuit
+“ Savilius sed eas tantum quas bonas certas
+“ que esse existimabat. Quaedam enim lec-
+“tiones ab Usserio e scripto ilto codice pro-
+“ feruntur, quas a Savilio praetermissas esse
+“ postea deprehendi. Praeterea idem Savilius
+“ad oram illius editionis multas adscripsit
+“emendationes ex codice Joannis Christo·
+“ phorsoni, quem scilicet Christophorsonus
+“ cum aliquot manuscriptis exemplaribus con-
+“ tulerat.'’ Haec vir eruditissimus; quibus-
+
+ 
+
